@@ -48,3 +48,7 @@ print(df.drop_duplicates(inplace=True))
 print(df["Category"].value_counts())
 city_sales = df.groupby("City")["TotalAmount"].sum().sort_values(ascending=False)
 print(city_sales)
+df["Month"] = df["TransactionDate"].dt.month
+df["Year"] = df["TransactionDate"].dt.year
+monthly_sales = df.groupby(["Year", "Month"])["TotalAmount"].sum()
+print(monthly_sales)
