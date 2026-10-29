@@ -52,3 +52,5 @@ df["Month"] = df["TransactionDate"].dt.month
 df["Year"] = df["TransactionDate"].dt.year
 monthly_sales = df.groupby(["Year", "Month"])["TotalAmount"].sum()
 print(monthly_sales)
+product_sales = df.groupby("Product")["TotalAmount"].sum().sort_values(ascending=False)
+print(product_sales)
