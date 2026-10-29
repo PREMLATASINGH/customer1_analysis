@@ -1,0 +1,501 @@
+OrderID,CustomerID,CustomerName,City,Product,Category,Quantity,UnitPrice,Discount,TransactionDate,TotalAmount
+ORD1000,CUST004,Sara Khan,San Francisco,Keyboard,Accessories,5,200,0.05,2024-01-01,950.0
+ORD1001,CUST005,Amit Sharma,San Francisco,Mobile,Accessories,4,600,0.06,2024-01-02,2256.0
+ORD1002,CUST003,Michael Lee,San Francisco,Keyboard,Electronics,1,40,0.0,2024-01-03,40.0
+ORD1003,CUST005,John Doe,San Francisco,Headphones,Electronics,5,40,0.0,2024-01-04,200.0
+ORD1004,CUST005,John Doe,Boston,Laptop,Electronics,5,900,0.25,2024-01-05,3375.0
+ORD1005,CUST002,Amit Sharma,Boston,Keyboard,Electronics,4,40,0.22,2024-01-06,124.80000000000001
+ORD1006,CUST003,Sara Khan,Chicago,Laptop,Electronics,6,900,0.11,2024-01-07,4806.0
+ORD1007,CUST003,Sara Khan,New York,Mobile,Electronics,4,200,0.21,2024-01-08,632.0
+ORD1008,CUST003,Michael Lee,San Francisco,Laptop,Electronics,7,600,0.12,2024-01-09,3696.0
+ORD1009,CUST005,Amit Sharma,Chicago,Mobile,Accessories,7,200,0.29,2024-01-10,994.0
+ORD1010,CUST004,John Doe,New York,Headphones,Electronics,2,80,0.29,2024-01-11,113.6
+ORD1011,CUST003,Sara Khan,Houston,Mobile,Electronics,3,80,0.12,2024-01-12,211.2
+ORD1012,CUST005,Amit Sharma,Boston,Mobile,Accessories,1,80,0.26,2024-01-13,59.2
+ORD1013,CUST002,Sara Khan,New York,Monitor,Electronics,8,200,0.23,2024-01-14,1232.0
+ORD1014,CUST004,Sara Khan,Houston,Keyboard,Electronics,9,40,0.09,2024-01-15,327.6
+ORD1015,CUST002,John Doe,New York,Keyboard,Electronics,4,600,0.07,2024-01-16,2232.0
+ORD1016,CUST004,Priya Singh,Boston,Headphones,Electronics,6,80,0.14,2024-01-17,412.8
+ORD1017,CUST005,Michael Lee,Boston,Headphones,Accessories,9,80,0.23,2024-01-18,554.4
+ORD1018,CUST001,Michael Lee,Chicago,Keyboard,Accessories,6,80,0.29,2024-01-19,340.79999999999995
+ORD1019,CUST004,John Doe,San Francisco,Monitor,Accessories,9,600,0.23,2024-01-20,4158.0
+ORD1020,CUST002,Sara Khan,New York,Keyboard,Accessories,4,80,0.26,2024-01-21,236.8
+ORD1021,CUST005,Amit Sharma,New York,Monitor,Electronics,8,600,0.18,2024-01-22,3936.0000000000005
+ORD1022,CUST004,Sara Khan,Houston,Headphones,Electronics,9,80,0.25,2024-01-23,540.0
+ORD1023,CUST001,John Doe,Boston,Laptop,Electronics,4,200,0.24,2024-01-24,608.0
+ORD1024,CUST001,Michael Lee,New York,Headphones,Accessories,5,200,0.11,2024-01-25,890.0
+ORD1025,CUST003,Sara Khan,Boston,Headphones,Electronics,8,600,0.17,2024-01-26,3984.0
+ORD1026,CUST003,Michael Lee,New York,Mobile,Electronics,6,200,0.24,2024-01-27,912.0
+ORD1027,CUST002,Amit Sharma,Chicago,Mobile,Accessories,7,600,0.01,2024-01-28,4158.0
+ORD1028,CUST004,Michael Lee,San Francisco,Mobile,Accessories,3,200,0.24,2024-01-29,456.0
+ORD1029,CUST004,Michael Lee,New York,Mobile,Electronics,7,200,0.05,2024-01-30,1330.0
+ORD1030,CUST003,Priya Singh,Boston,Monitor,Electronics,8,600,0.15,2024-01-31,4080.0
+ORD1031,CUST004,Priya Singh,Chicago,Keyboard,Accessories,6,40,0.24,2024-02-01,182.4
+ORD1032,CUST004,Priya Singh,New York,Laptop,Electronics,9,200,0.08,2024-02-02,1656.0
+ORD1033,CUST001,Michael Lee,Houston,Headphones,Accessories,6,80,0.07,2024-02-03,446.4
+ORD1034,CUST003,John Doe,San Francisco,Monitor,Electronics,9,40,0.12,2024-02-04,316.8
+ORD1035,CUST005,Michael Lee,New York,Laptop,Electronics,4,600,0.27,2024-02-05,1752.0
+ORD1036,CUST003,John Doe,Chicago,Monitor,Accessories,8,40,0.0,2024-02-06,320.0
+ORD1037,CUST005,John Doe,Houston,Monitor,Electronics,4,900,0.27,2024-02-07,2628.0
+ORD1038,CUST001,Priya Singh,Chicago,Headphones,Accessories,2,900,0.05,2024-02-08,1710.0
+ORD1039,CUST002,Sara Khan,Chicago,Keyboard,Electronics,9,200,0.3,2024-02-09,1260.0
+ORD1040,CUST004,Amit Sharma,Houston,Mobile,Accessories,5,200,0.29,2024-02-10,710.0
+ORD1041,CUST001,Priya Singh,Chicago,Keyboard,Accessories,4,80,0.15,2024-02-11,272.0
+ORD1042,CUST004,Priya Singh,Houston,Headphones,Electronics,2,40,0.15,2024-02-12,68.0
+ORD1043,CUST002,Sara Khan,New York,Headphones,Electronics,1,900,0.14,2024-02-13,774.0
+ORD1044,CUST002,Amit Sharma,Houston,Headphones,Accessories,7,200,0.19,2024-02-14,1134.0
+ORD1045,CUST001,Michael Lee,Houston,Laptop,Accessories,6,40,0.03,2024-02-15,232.79999999999998
+ORD1046,CUST002,Michael Lee,San Francisco,Keyboard,Electronics,2,200,0.01,2024-02-16,396.0
+ORD1047,CUST005,Priya Singh,Houston,Keyboard,Electronics,8,200,0.02,2024-02-17,1568.0
+ORD1048,CUST002,Amit Sharma,Houston,Monitor,Accessories,4,900,0.13,2024-02-18,3132.0
+ORD1049,CUST004,Priya Singh,New York,Monitor,Electronics,8,900,0.08,2024-02-19,6624.0
+ORD1050,CUST004,John Doe,San Francisco,Monitor,Accessories,7,200,0.19,2024-02-20,1134.0
+ORD1051,CUST004,Priya Singh,Boston,Headphones,Electronics,5,600,0.3,2024-02-21,2100.0
+ORD1052,CUST004,Priya Singh,New York,Keyboard,Electronics,8,200,0.12,2024-02-22,1408.0
+ORD1053,CUST005,Michael Lee,New York,Headphones,Accessories,9,200,0.17,2024-02-23,1494.0
+ORD1054,CUST003,Michael Lee,Boston,Laptop,Electronics,5,80,0.12,2024-02-24,352.0
+ORD1055,CUST001,Michael Lee,Houston,Monitor,Accessories,5,80,0.25,2024-02-25,300.0
+ORD1056,CUST004,John Doe,Chicago,Headphones,Accessories,2,80,0.27,2024-02-26,116.8
+ORD1057,CUST002,Michael Lee,San Francisco,Headphones,Electronics,5,600,0.26,2024-02-27,2220.0
+ORD1058,CUST004,Amit Sharma,Chicago,Laptop,Accessories,3,600,0.29,2024-02-28,1278.0
+ORD1059,CUST002,Sara Khan,Boston,Mobile,Electronics,7,200,0.01,2024-02-29,1386.0
+ORD1060,CUST002,Amit Sharma,New York,Keyboard,Electronics,5,80,0.25,2024-03-01,300.0
+ORD1061,CUST004,Amit Sharma,New York,Mobile,Electronics,8,600,0.23,2024-03-02,3696.0
+ORD1062,CUST005,Michael Lee,San Francisco,Monitor,Electronics,1,900,0.07,2024-03-03,837.0
+ORD1063,CUST002,Sara Khan,New York,Headphones,Electronics,3,200,0.29,2024-03-04,426.0
+ORD1064,CUST002,Sara Khan,New York,Laptop,Electronics,3,40,0.04,2024-03-05,115.19999999999999
+ORD1065,CUST004,Sara Khan,San Francisco,Laptop,Accessories,9,200,0.2,2024-03-06,1440.0
+ORD1066,CUST002,John Doe,San Francisco,Keyboard,Electronics,5,40,0.07,2024-03-07,186.0
+ORD1067,CUST002,Michael Lee,Boston,Mobile,Accessories,9,80,0.13,2024-03-08,626.4
+ORD1068,CUST004,Sara Khan,New York,Keyboard,Accessories,9,40,0.22,2024-03-09,280.8
+ORD1069,CUST004,John Doe,New York,Headphones,Accessories,1,80,0.17,2024-03-10,66.39999999999999
+ORD1070,CUST001,Priya Singh,Boston,Keyboard,Electronics,2,900,0.13,2024-03-11,1566.0
+ORD1071,CUST005,Priya Singh,Houston,Laptop,Accessories,5,40,0.1,2024-03-12,180.0
+ORD1072,CUST005,John Doe,Houston,Laptop,Accessories,4,200,0.25,2024-03-13,600.0
+ORD1073,CUST002,John Doe,Houston,Monitor,Electronics,9,80,0.04,2024-03-14,691.1999999999999
+ORD1074,CUST005,Michael Lee,Boston,Monitor,Accessories,7,200,0.13,2024-03-15,1218.0
+ORD1075,CUST002,Michael Lee,New York,Headphones,Accessories,6,600,0.27,2024-03-16,2628.0
+ORD1076,CUST001,Priya Singh,Boston,Mobile,Electronics,7,80,0.25,2024-03-17,420.0
+ORD1077,CUST004,Sara Khan,Boston,Keyboard,Electronics,1,40,0.12,2024-03-18,35.2
+ORD1078,CUST004,Priya Singh,Houston,Headphones,Electronics,1,80,0.23,2024-03-19,61.6
+ORD1079,CUST004,Sara Khan,Chicago,Monitor,Accessories,8,200,0.25,2024-03-20,1200.0
+ORD1080,CUST005,Sara Khan,New York,Keyboard,Electronics,2,900,0.27,2024-03-21,1314.0
+ORD1081,CUST001,Michael Lee,Houston,Monitor,Electronics,9,80,0.16,2024-03-22,604.8
+ORD1082,CUST005,Amit Sharma,Chicago,Keyboard,Electronics,7,40,0.06,2024-03-23,263.2
+ORD1083,CUST005,Amit Sharma,Chicago,Mobile,Accessories,6,600,0.08,2024-03-24,3312.0
+ORD1084,CUST001,John Doe,San Francisco,Headphones,Accessories,1,900,0.09,2024-03-25,819.0
+ORD1085,CUST001,Michael Lee,New York,Keyboard,Electronics,1,600,0.18,2024-03-26,492.00000000000006
+ORD1086,CUST001,Sara Khan,Chicago,Laptop,Electronics,2,80,0.01,2024-03-27,158.4
+ORD1087,CUST001,Amit Sharma,Houston,Laptop,Accessories,6,200,0.19,2024-03-28,972.0000000000001
+ORD1088,CUST004,Sara Khan,San Francisco,Keyboard,Electronics,6,200,0.11,2024-03-29,1068.0
+ORD1089,CUST003,Amit Sharma,New York,Keyboard,Electronics,2,40,0.09,2024-03-30,72.8
+ORD1090,CUST003,Amit Sharma,Boston,Keyboard,Electronics,1,200,0.26,2024-03-31,148.0
+ORD1091,CUST001,Amit Sharma,Houston,Laptop,Electronics,5,900,0.14,2024-04-01,3870.0
+ORD1092,CUST003,Michael Lee,Chicago,Laptop,Electronics,5,200,0.03,2024-04-02,970.0
+ORD1093,CUST003,Priya Singh,Chicago,Keyboard,Electronics,2,40,0.25,2024-04-03,60.0
+ORD1094,CUST001,Sara Khan,Houston,Monitor,Electronics,6,80,0.01,2024-04-04,475.2
+ORD1095,CUST003,Michael Lee,Chicago,Monitor,Accessories,9,80,0.22,2024-04-05,561.6
+ORD1096,CUST005,Michael Lee,San Francisco,Mobile,Electronics,2,200,0.23,2024-04-06,308.0
+ORD1097,CUST002,Michael Lee,New York,Headphones,Electronics,2,600,0.11,2024-04-07,1068.0
+ORD1098,CUST002,Michael Lee,San Francisco,Monitor,Electronics,3,80,0.25,2024-04-08,180.0
+ORD1099,CUST001,Michael Lee,Chicago,Laptop,Accessories,7,200,0.15,2024-04-09,1190.0
+ORD1100,CUST004,John Doe,Boston,Monitor,Accessories,6,40,0.14,2024-04-10,206.4
+ORD1101,CUST001,Sara Khan,New York,Mobile,Accessories,8,200,0.01,2024-04-11,1584.0
+ORD1102,CUST004,Michael Lee,New York,Mobile,Electronics,8,80,0.09,2024-04-12,582.4
+ORD1103,CUST002,Sara Khan,Houston,Headphones,Accessories,6,40,0.28,2024-04-13,172.79999999999998
+ORD1104,CUST001,John Doe,Houston,Monitor,Electronics,3,200,0.12,2024-04-14,528.0
+ORD1105,CUST005,John Doe,Boston,Laptop,Accessories,3,900,0.16,2024-04-15,2268.0
+ORD1106,CUST003,Sara Khan,New York,Laptop,Accessories,1,40,0.16,2024-04-16,33.6
+ORD1107,CUST004,Amit Sharma,Boston,Keyboard,Accessories,7,900,0.18,2024-04-17,5166.0
+ORD1108,CUST003,Priya Singh,Houston,Laptop,Electronics,5,600,0.02,2024-04-18,2940.0
+ORD1109,CUST003,Amit Sharma,Houston,Headphones,Accessories,4,40,0.11,2024-04-19,142.4
+ORD1110,CUST001,Amit Sharma,New York,Headphones,Electronics,4,900,0.22,2024-04-20,2808.0
+ORD1111,CUST003,Amit Sharma,San Francisco,Laptop,Accessories,4,80,0.06,2024-04-21,300.79999999999995
+ORD1112,CUST005,Michael Lee,Chicago,Laptop,Electronics,6,80,0.06,2024-04-22,451.2
+ORD1113,CUST003,John Doe,Houston,Keyboard,Electronics,8,600,0.0,2024-04-23,4800.0
+ORD1114,CUST001,Amit Sharma,Houston,Laptop,Electronics,8,40,0.13,2024-04-24,278.4
+ORD1115,CUST005,John Doe,San Francisco,Keyboard,Electronics,5,40,0.26,2024-04-25,148.0
+ORD1116,CUST002,Sara Khan,San Francisco,Keyboard,Accessories,6,40,0.02,2024-04-26,235.2
+ORD1117,CUST003,Priya Singh,Boston,Laptop,Electronics,4,600,0.06,2024-04-27,2256.0
+ORD1118,CUST001,Sara Khan,Boston,Mobile,Accessories,9,40,0.09,2024-04-28,327.6
+ORD1119,CUST002,Sara Khan,Chicago,Mobile,Accessories,8,80,0.22,2024-04-29,499.20000000000005
+ORD1120,CUST002,Michael Lee,Chicago,Keyboard,Electronics,1,900,0.19,2024-04-30,729.0
+ORD1121,CUST004,Priya Singh,New York,Laptop,Electronics,2,80,0.12,2024-05-01,140.8
+ORD1122,CUST005,Sara Khan,Boston,Mobile,Accessories,9,80,0.23,2024-05-02,554.4
+ORD1123,CUST003,Sara Khan,Houston,Laptop,Electronics,8,900,0.18,2024-05-03,5904.0
+ORD1124,CUST001,Priya Singh,Boston,Laptop,Accessories,3,80,0.27,2024-05-04,175.2
+ORD1125,CUST004,Priya Singh,Houston,Laptop,Electronics,8,600,0.25,2024-05-05,3600.0
+ORD1126,CUST005,Sara Khan,San Francisco,Monitor,Accessories,1,900,0.08,2024-05-06,828.0
+ORD1127,CUST004,Priya Singh,Boston,Laptop,Electronics,4,80,0.08,2024-05-07,294.40000000000003
+ORD1128,CUST005,Sara Khan,San Francisco,Monitor,Accessories,3,200,0.04,2024-05-08,576.0
+ORD1129,CUST005,Sara Khan,Chicago,Keyboard,Electronics,6,80,0.1,2024-05-09,432.0
+ORD1130,CUST003,Michael Lee,Chicago,Mobile,Electronics,7,600,0.3,2024-05-10,2940.0
+ORD1131,CUST005,Amit Sharma,New York,Mobile,Electronics,4,40,0.12,2024-05-11,140.8
+ORD1132,CUST004,Sara Khan,Boston,Mobile,Electronics,7,80,0.07,2024-05-12,520.8
+ORD1133,CUST005,John Doe,San Francisco,Mobile,Electronics,9,40,0.23,2024-05-13,277.2
+ORD1134,CUST003,Amit Sharma,Houston,Mobile,Electronics,2,200,0.16,2024-05-14,336.0
+ORD1135,CUST003,Amit Sharma,Chicago,Mobile,Electronics,3,80,0.04,2024-05-15,230.39999999999998
+ORD1136,CUST004,Amit Sharma,Chicago,Mobile,Accessories,5,900,0.11,2024-05-16,4005.0
+ORD1137,CUST002,Michael Lee,Houston,Keyboard,Electronics,3,40,0.12,2024-05-17,105.6
+ORD1138,CUST002,Sara Khan,San Francisco,Laptop,Electronics,8,200,0.23,2024-05-18,1232.0
+ORD1139,CUST005,Michael Lee,San Francisco,Headphones,Accessories,8,900,0.01,2024-05-19,7128.0
+ORD1140,CUST001,Sara Khan,Boston,Monitor,Accessories,8,900,0.08,2024-05-20,6624.0
+ORD1141,CUST005,Michael Lee,Boston,Headphones,Accessories,9,900,0.16,2024-05-21,6804.0
+ORD1142,CUST004,Michael Lee,New York,Headphones,Electronics,4,900,0.08,2024-05-22,3312.0
+ORD1143,CUST004,John Doe,Chicago,Laptop,Electronics,5,80,0.19,2024-05-23,324.0
+ORD1144,CUST004,Michael Lee,Boston,Laptop,Electronics,5,80,0.14,2024-05-24,344.0
+ORD1145,CUST004,Priya Singh,San Francisco,Laptop,Electronics,8,80,0.11,2024-05-25,569.6
+ORD1146,CUST004,John Doe,Houston,Mobile,Electronics,7,200,0.28,2024-05-26,1008.0
+ORD1147,CUST003,Michael Lee,San Francisco,Keyboard,Electronics,9,200,0.19,2024-05-27,1458.0
+ORD1148,CUST002,Amit Sharma,Chicago,Mobile,Electronics,8,200,0.04,2024-05-28,1536.0
+ORD1149,CUST004,Priya Singh,San Francisco,Keyboard,Accessories,2,600,0.17,2024-05-29,996.0
+ORD1150,CUST001,Priya Singh,New York,Keyboard,Electronics,4,200,0.23,2024-05-30,616.0
+ORD1151,CUST001,Priya Singh,Chicago,Headphones,Accessories,6,80,0.21,2024-05-31,379.20000000000005
+ORD1152,CUST001,John Doe,Houston,Headphones,Electronics,2,80,0.05,2024-06-01,152.0
+ORD1153,CUST001,Michael Lee,New York,Keyboard,Accessories,7,600,0.29,2024-06-02,2982.0
+ORD1154,CUST003,Michael Lee,Chicago,Keyboard,Accessories,3,600,0.13,2024-06-03,1566.0
+ORD1155,CUST001,Amit Sharma,Houston,Mobile,Accessories,3,200,0.05,2024-06-04,570.0
+ORD1156,CUST004,Amit Sharma,New York,Mobile,Electronics,2,40,0.05,2024-06-05,76.0
+ORD1157,CUST005,Priya Singh,New York,Headphones,Accessories,8,600,0.03,2024-06-06,4656.0
+ORD1158,CUST001,Amit Sharma,Chicago,Laptop,Electronics,6,900,0.24,2024-06-07,4104.0
+ORD1159,CUST003,John Doe,Boston,Keyboard,Electronics,1,80,0.04,2024-06-08,76.8
+ORD1160,CUST003,Michael Lee,New York,Mobile,Accessories,1,900,0.04,2024-06-09,864.0
+ORD1161,CUST001,Priya Singh,New York,Headphones,Electronics,7,80,0.26,2024-06-10,414.4
+ORD1162,CUST005,Amit Sharma,Houston,Mobile,Accessories,8,80,0.1,2024-06-11,576.0
+ORD1163,CUST001,John Doe,San Francisco,Keyboard,Electronics,5,600,0.01,2024-06-12,2970.0
+ORD1164,CUST003,John Doe,Chicago,Keyboard,Accessories,5,600,0.02,2024-06-13,2940.0
+ORD1165,CUST002,Amit Sharma,Chicago,Monitor,Accessories,4,900,0.04,2024-06-14,3456.0
+ORD1166,CUST004,Michael Lee,Boston,Laptop,Accessories,6,80,0.06,2024-06-15,451.2
+ORD1167,CUST003,Amit Sharma,Boston,Monitor,Electronics,6,900,0.2,2024-06-16,4320.0
+ORD1168,CUST001,Priya Singh,Chicago,Headphones,Accessories,3,40,0.05,2024-06-17,114.0
+ORD1169,CUST004,Amit Sharma,Boston,Mobile,Electronics,9,900,0.04,2024-06-18,7776.0
+ORD1170,CUST001,John Doe,Houston,Headphones,Electronics,7,200,0.23,2024-06-19,1078.0
+ORD1171,CUST001,Amit Sharma,Chicago,Keyboard,Electronics,1,900,0.2,2024-06-20,720.0
+ORD1172,CUST002,Michael Lee,Boston,Monitor,Electronics,7,200,0.13,2024-06-21,1218.0
+ORD1173,CUST004,Sara Khan,Chicago,Monitor,Accessories,5,200,0.16,2024-06-22,840.0
+ORD1174,CUST004,Amit Sharma,San Francisco,Monitor,Electronics,5,200,0.09,2024-06-23,910.0
+ORD1175,CUST002,Michael Lee,New York,Headphones,Electronics,2,40,0.14,2024-06-24,68.8
+ORD1176,CUST003,Michael Lee,Chicago,Keyboard,Electronics,4,900,0.15,2024-06-25,3060.0
+ORD1177,CUST001,John Doe,New York,Mobile,Accessories,6,900,0.12,2024-06-26,4752.0
+ORD1178,CUST005,Michael Lee,Boston,Mobile,Electronics,7,40,0.27,2024-06-27,204.4
+ORD1179,CUST001,Michael Lee,New York,Headphones,Accessories,5,80,0.0,2024-06-28,400.0
+ORD1180,CUST001,Michael Lee,Chicago,Monitor,Electronics,9,600,0.23,2024-06-29,4158.0
+ORD1181,CUST003,Michael Lee,San Francisco,Laptop,Electronics,3,900,0.04,2024-06-30,2592.0
+ORD1182,CUST001,Priya Singh,Boston,Headphones,Accessories,1,600,0.24,2024-07-01,456.0
+ORD1183,CUST002,Priya Singh,Chicago,Headphones,Accessories,4,40,0.18,2024-07-02,131.20000000000002
+ORD1184,CUST002,John Doe,Boston,Keyboard,Accessories,9,80,0.25,2024-07-03,540.0
+ORD1185,CUST004,Amit Sharma,Houston,Mobile,Electronics,4,80,0.03,2024-07-04,310.4
+ORD1186,CUST005,Michael Lee,New York,Headphones,Accessories,2,80,0.17,2024-07-05,132.79999999999998
+ORD1187,CUST001,Amit Sharma,Houston,Headphones,Accessories,5,40,0.15,2024-07-06,170.0
+ORD1188,CUST001,Amit Sharma,Chicago,Monitor,Electronics,3,200,0.21,2024-07-07,474.0
+ORD1189,CUST003,John Doe,San Francisco,Monitor,Electronics,9,200,0.16,2024-07-08,1512.0
+ORD1190,CUST002,Michael Lee,Boston,Laptop,Accessories,4,600,0.16,2024-07-09,2016.0
+ORD1191,CUST005,Michael Lee,New York,Keyboard,Accessories,6,200,0.13,2024-07-10,1044.0
+ORD1192,CUST004,Sara Khan,Boston,Laptop,Electronics,2,200,0.09,2024-07-11,364.0
+ORD1193,CUST002,Amit Sharma,Chicago,Monitor,Accessories,6,80,0.14,2024-07-12,412.8
+ORD1194,CUST004,Amit Sharma,Boston,Mobile,Accessories,3,80,0.04,2024-07-13,230.39999999999998
+ORD1195,CUST003,Priya Singh,New York,Monitor,Accessories,9,600,0.29,2024-07-14,3834.0
+ORD1196,CUST003,Sara Khan,Chicago,Keyboard,Electronics,2,900,0.21,2024-07-15,1422.0
+ORD1197,CUST001,Priya Singh,Boston,Monitor,Electronics,9,600,0.29,2024-07-16,3834.0
+ORD1198,CUST005,Priya Singh,San Francisco,Keyboard,Accessories,5,600,0.07,2024-07-17,2790.0
+ORD1199,CUST004,Priya Singh,Chicago,Keyboard,Electronics,8,40,0.26,2024-07-18,236.8
+ORD1200,CUST002,John Doe,Chicago,Keyboard,Accessories,2,40,0.24,2024-07-19,60.8
+ORD1201,CUST003,John Doe,San Francisco,Keyboard,Accessories,6,600,0.2,2024-07-20,2880.0
+ORD1202,CUST001,Priya Singh,Houston,Keyboard,Accessories,3,600,0.19,2024-07-21,1458.0
+ORD1203,CUST001,Sara Khan,New York,Mobile,Electronics,5,600,0.09,2024-07-22,2730.0
+ORD1204,CUST004,Amit Sharma,Houston,Laptop,Electronics,8,200,0.24,2024-07-23,1216.0
+ORD1205,CUST003,Sara Khan,Boston,Headphones,Electronics,1,40,0.15,2024-07-24,34.0
+ORD1206,CUST005,Michael Lee,San Francisco,Laptop,Electronics,5,600,0.02,2024-07-25,2940.0
+ORD1207,CUST003,John Doe,Houston,Keyboard,Accessories,3,80,0.09,2024-07-26,218.4
+ORD1208,CUST004,Amit Sharma,Chicago,Mobile,Electronics,4,80,0.28,2024-07-27,230.39999999999998
+ORD1209,CUST004,Amit Sharma,Boston,Monitor,Electronics,2,200,0.26,2024-07-28,296.0
+ORD1210,CUST003,Michael Lee,Boston,Mobile,Electronics,9,200,0.29,2024-07-29,1278.0
+ORD1211,CUST004,Michael Lee,Houston,Keyboard,Electronics,3,900,0.19,2024-07-30,2187.0
+ORD1212,CUST003,Priya Singh,Houston,Mobile,Electronics,2,900,0.07,2024-07-31,1674.0
+ORD1213,CUST002,John Doe,San Francisco,Mobile,Electronics,9,900,0.05,2024-08-01,7695.0
+ORD1214,CUST003,John Doe,New York,Keyboard,Electronics,7,200,0.06,2024-08-02,1316.0
+ORD1215,CUST003,Sara Khan,Houston,Mobile,Electronics,6,200,0.01,2024-08-03,1188.0
+ORD1216,CUST004,Priya Singh,Houston,Headphones,Electronics,1,200,0.12,2024-08-04,176.0
+ORD1217,CUST004,Priya Singh,Chicago,Headphones,Electronics,5,80,0.06,2024-08-05,376.0
+ORD1218,CUST001,Priya Singh,Boston,Mobile,Electronics,3,200,0.12,2024-08-06,528.0
+ORD1219,CUST001,Priya Singh,New York,Monitor,Electronics,1,80,0.28,2024-08-07,57.599999999999994
+ORD1220,CUST002,John Doe,Chicago,Keyboard,Electronics,4,900,0.13,2024-08-08,3132.0
+ORD1221,CUST001,John Doe,San Francisco,Headphones,Electronics,2,900,0.26,2024-08-09,1332.0
+ORD1222,CUST003,Priya Singh,San Francisco,Monitor,Electronics,2,900,0.18,2024-08-10,1476.0
+ORD1223,CUST004,Sara Khan,Houston,Mobile,Electronics,3,600,0.07,2024-08-11,1674.0
+ORD1224,CUST001,Amit Sharma,Houston,Monitor,Accessories,8,600,0.11,2024-08-12,4272.0
+ORD1225,CUST001,Amit Sharma,San Francisco,Laptop,Electronics,8,40,0.03,2024-08-13,310.4
+ORD1226,CUST002,Sara Khan,Houston,Headphones,Accessories,7,40,0.1,2024-08-14,252.0
+ORD1227,CUST002,Priya Singh,New York,Mobile,Electronics,6,40,0.2,2024-08-15,192.0
+ORD1228,CUST003,John Doe,Houston,Keyboard,Accessories,9,600,0.02,2024-08-16,5292.0
+ORD1229,CUST004,Amit Sharma,Boston,Mobile,Accessories,4,600,0.06,2024-08-17,2256.0
+ORD1230,CUST002,Michael Lee,Houston,Keyboard,Electronics,1,40,0.11,2024-08-18,35.6
+ORD1231,CUST001,Michael Lee,Chicago,Mobile,Accessories,8,40,0.29,2024-08-19,227.2
+ORD1232,CUST004,Sara Khan,New York,Monitor,Electronics,7,200,0.24,2024-08-20,1064.0
+ORD1233,CUST004,Priya Singh,Chicago,Monitor,Electronics,7,40,0.22,2024-08-21,218.4
+ORD1234,CUST001,Amit Sharma,Chicago,Monitor,Accessories,3,200,0.03,2024-08-22,582.0
+ORD1235,CUST002,Priya Singh,Boston,Laptop,Electronics,4,80,0.23,2024-08-23,246.4
+ORD1236,CUST001,Amit Sharma,New York,Keyboard,Accessories,9,600,0.24,2024-08-24,4104.0
+ORD1237,CUST004,Sara Khan,New York,Monitor,Accessories,6,40,0.18,2024-08-25,196.8
+ORD1238,CUST005,Sara Khan,New York,Laptop,Electronics,5,600,0.3,2024-08-26,2100.0
+ORD1239,CUST005,Michael Lee,New York,Keyboard,Accessories,3,600,0.1,2024-08-27,1620.0
+ORD1240,CUST003,Priya Singh,New York,Mobile,Electronics,9,600,0.28,2024-08-28,3888.0
+ORD1241,CUST001,Michael Lee,Boston,Laptop,Electronics,5,80,0.27,2024-08-29,292.0
+ORD1242,CUST001,Priya Singh,Houston,Headphones,Accessories,5,900,0.0,2024-08-30,4500.0
+ORD1243,CUST003,Michael Lee,Chicago,Laptop,Electronics,4,40,0.14,2024-08-31,137.6
+ORD1244,CUST003,John Doe,New York,Laptop,Electronics,4,900,0.29,2024-09-01,2556.0
+ORD1245,CUST003,John Doe,Houston,Keyboard,Electronics,1,900,0.03,2024-09-02,873.0
+ORD1246,CUST004,John Doe,Houston,Mobile,Electronics,7,900,0.16,2024-09-03,5292.0
+ORD1247,CUST001,John Doe,Chicago,Headphones,Electronics,9,600,0.29,2024-09-04,3834.0
+ORD1248,CUST004,Amit Sharma,Boston,Monitor,Electronics,3,200,0.17,2024-09-05,498.0
+ORD1249,CUST003,John Doe,San Francisco,Monitor,Electronics,2,600,0.06,2024-09-06,1128.0
+ORD1250,CUST001,Sara Khan,San Francisco,Laptop,Electronics,3,600,0.17,2024-09-07,1494.0
+ORD1251,CUST004,Sara Khan,Houston,Keyboard,Electronics,1,900,0.06,2024-09-08,846.0
+ORD1252,CUST004,Amit Sharma,Chicago,Keyboard,Electronics,6,600,0.16,2024-09-09,3024.0
+ORD1253,CUST003,John Doe,San Francisco,Monitor,Electronics,7,900,0.02,2024-09-10,6174.0
+ORD1254,CUST001,John Doe,Houston,Headphones,Electronics,2,200,0.18,2024-09-11,328.0
+ORD1255,CUST003,John Doe,Boston,Mobile,Accessories,8,40,0.16,2024-09-12,268.8
+ORD1256,CUST001,Michael Lee,San Francisco,Headphones,Electronics,6,900,0.22,2024-09-13,4212.0
+ORD1257,CUST005,Priya Singh,Houston,Mobile,Electronics,4,200,0.19,2024-09-14,648.0
+ORD1258,CUST002,Michael Lee,Houston,Monitor,Electronics,5,40,0.16,2024-09-15,168.0
+ORD1259,CUST002,Priya Singh,New York,Mobile,Electronics,8,80,0.21,2024-09-16,505.6
+ORD1260,CUST002,John Doe,Boston,Keyboard,Electronics,3,900,0.04,2024-09-17,2592.0
+ORD1261,CUST003,John Doe,New York,Laptop,Accessories,3,900,0.18,2024-09-18,2214.0
+ORD1262,CUST005,Michael Lee,Chicago,Laptop,Electronics,4,80,0.05,2024-09-19,304.0
+ORD1263,CUST001,Michael Lee,New York,Monitor,Accessories,1,80,0.28,2024-09-20,57.599999999999994
+ORD1264,CUST004,Priya Singh,New York,Keyboard,Accessories,9,900,0.02,2024-09-21,7938.0
+ORD1265,CUST001,Sara Khan,San Francisco,Headphones,Electronics,8,80,0.13,2024-09-22,556.8
+ORD1266,CUST004,Priya Singh,Houston,Keyboard,Accessories,8,600,0.21,2024-09-23,3792.0
+ORD1267,CUST001,Michael Lee,Boston,Laptop,Electronics,6,40,0.14,2024-09-24,206.4
+ORD1268,CUST005,Michael Lee,New York,Laptop,Electronics,7,40,0.03,2024-09-25,271.59999999999997
+ORD1269,CUST004,Amit Sharma,Boston,Keyboard,Accessories,6,40,0.17,2024-09-26,199.2
+ORD1270,CUST003,Michael Lee,New York,Keyboard,Electronics,9,600,0.19,2024-09-27,4374.0
+ORD1271,CUST001,Amit Sharma,Chicago,Laptop,Accessories,3,80,0.21,2024-09-28,189.60000000000002
+ORD1272,CUST001,Sara Khan,New York,Headphones,Electronics,3,200,0.11,2024-09-29,534.0
+ORD1273,CUST004,Priya Singh,San Francisco,Monitor,Accessories,3,80,0.17,2024-09-30,199.2
+ORD1274,CUST003,Priya Singh,Houston,Monitor,Electronics,3,900,0.14,2024-10-01,2322.0
+ORD1275,CUST003,Amit Sharma,Chicago,Keyboard,Electronics,9,40,0.2,2024-10-02,288.0
+ORD1276,CUST005,Priya Singh,New York,Monitor,Electronics,4,80,0.18,2024-10-03,262.40000000000003
+ORD1277,CUST003,Michael Lee,Boston,Laptop,Electronics,7,200,0.16,2024-10-04,1176.0
+ORD1278,CUST003,John Doe,Chicago,Laptop,Accessories,9,900,0.07,2024-10-05,7532.999999999999
+ORD1279,CUST003,Amit Sharma,Chicago,Keyboard,Electronics,7,600,0.0,2024-10-06,4200.0
+ORD1280,CUST002,Priya Singh,New York,Keyboard,Electronics,9,600,0.05,2024-10-07,5130.0
+ORD1281,CUST005,Amit Sharma,Chicago,Keyboard,Accessories,3,200,0.04,2024-10-08,576.0
+ORD1282,CUST001,Amit Sharma,Boston,Headphones,Accessories,4,900,0.13,2024-10-09,3132.0
+ORD1283,CUST004,John Doe,Chicago,Monitor,Electronics,8,40,0.18,2024-10-10,262.40000000000003
+ORD1284,CUST001,Michael Lee,Boston,Keyboard,Electronics,6,80,0.06,2024-10-11,451.2
+ORD1285,CUST005,Amit Sharma,New York,Mobile,Accessories,5,900,0.28,2024-10-12,3240.0
+ORD1286,CUST004,Priya Singh,Houston,Mobile,Electronics,4,600,0.0,2024-10-13,2400.0
+ORD1287,CUST005,Sara Khan,Chicago,Laptop,Electronics,8,200,0.23,2024-10-14,1232.0
+ORD1288,CUST003,Amit Sharma,Houston,Monitor,Accessories,1,200,0.19,2024-10-15,162.0
+ORD1289,CUST004,Amit Sharma,Boston,Keyboard,Accessories,9,80,0.11,2024-10-16,640.8
+ORD1290,CUST003,John Doe,Chicago,Mobile,Accessories,1,200,0.02,2024-10-17,196.0
+ORD1291,CUST001,Michael Lee,San Francisco,Monitor,Accessories,8,200,0.19,2024-10-18,1296.0
+ORD1292,CUST001,Sara Khan,Houston,Laptop,Accessories,4,900,0.12,2024-10-19,3168.0
+ORD1293,CUST004,Priya Singh,Chicago,Headphones,Accessories,9,40,0.28,2024-10-20,259.2
+ORD1294,CUST004,Sara Khan,Houston,Monitor,Accessories,5,80,0.16,2024-10-21,336.0
+ORD1295,CUST005,Priya Singh,Chicago,Monitor,Accessories,3,900,0.28,2024-10-22,1944.0
+ORD1296,CUST005,Michael Lee,New York,Headphones,Electronics,9,40,0.07,2024-10-23,334.79999999999995
+ORD1297,CUST003,Priya Singh,Houston,Monitor,Electronics,9,900,0.22,2024-10-24,6318.0
+ORD1298,CUST004,John Doe,San Francisco,Laptop,Electronics,4,900,0.19,2024-10-25,2916.0
+ORD1299,CUST001,John Doe,San Francisco,Laptop,Electronics,4,200,0.22,2024-10-26,624.0
+ORD1300,CUST005,John Doe,Boston,Headphones,Accessories,8,40,0.06,2024-10-27,300.79999999999995
+ORD1301,CUST005,John Doe,Chicago,Keyboard,Electronics,2,80,0.2,2024-10-28,128.0
+ORD1302,CUST001,Sara Khan,Houston,Mobile,Electronics,9,80,0.15,2024-10-29,612.0
+ORD1303,CUST005,Michael Lee,Boston,Keyboard,Electronics,6,40,0.22,2024-10-30,187.20000000000002
+ORD1304,CUST003,Priya Singh,Houston,Monitor,Electronics,9,200,0.1,2024-10-31,1620.0
+ORD1305,CUST004,Priya Singh,Chicago,Mobile,Electronics,8,600,0.27,2024-11-01,3504.0
+ORD1306,CUST001,John Doe,San Francisco,Headphones,Accessories,7,900,0.03,2024-11-02,6111.0
+ORD1307,CUST004,John Doe,New York,Headphones,Electronics,1,200,0.24,2024-11-03,152.0
+ORD1308,CUST005,Amit Sharma,San Francisco,Mobile,Accessories,3,40,0.26,2024-11-04,88.8
+ORD1309,CUST005,Michael Lee,Boston,Laptop,Accessories,2,900,0.25,2024-11-05,1350.0
+ORD1310,CUST001,Sara Khan,New York,Mobile,Electronics,5,80,0.15,2024-11-06,340.0
+ORD1311,CUST003,Priya Singh,Boston,Monitor,Electronics,5,600,0.13,2024-11-07,2610.0
+ORD1312,CUST002,Amit Sharma,Chicago,Laptop,Electronics,5,80,0.3,2024-11-08,280.0
+ORD1313,CUST001,Amit Sharma,New York,Headphones,Electronics,4,40,0.07,2024-11-09,148.79999999999998
+ORD1314,CUST002,Priya Singh,Boston,Mobile,Electronics,5,900,0.16,2024-11-10,3780.0
+ORD1315,CUST002,Sara Khan,Chicago,Keyboard,Electronics,3,40,0.2,2024-11-11,96.0
+ORD1316,CUST003,Amit Sharma,San Francisco,Keyboard,Electronics,1,900,0.21,2024-11-12,711.0
+ORD1317,CUST002,Amit Sharma,Chicago,Monitor,Accessories,5,200,0.06,2024-11-13,940.0
+ORD1318,CUST002,Michael Lee,Houston,Keyboard,Accessories,9,600,0.2,2024-11-14,4320.0
+ORD1319,CUST003,Sara Khan,Chicago,Mobile,Accessories,9,200,0.25,2024-11-15,1350.0
+ORD1320,CUST002,Amit Sharma,Chicago,Mobile,Electronics,4,200,0.02,2024-11-16,784.0
+ORD1321,CUST002,Sara Khan,Houston,Keyboard,Electronics,3,40,0.27,2024-11-17,87.6
+ORD1322,CUST002,Priya Singh,Boston,Mobile,Electronics,1,600,0.01,2024-11-18,594.0
+ORD1323,CUST001,John Doe,Boston,Monitor,Accessories,2,900,0.11,2024-11-19,1602.0
+ORD1324,CUST001,Amit Sharma,Chicago,Laptop,Electronics,8,900,0.0,2024-11-20,7200.0
+ORD1325,CUST001,Michael Lee,Houston,Monitor,Accessories,1,80,0.02,2024-11-21,78.4
+ORD1326,CUST003,Priya Singh,Houston,Monitor,Electronics,8,900,0.27,2024-11-22,5256.0
+ORD1327,CUST005,Sara Khan,San Francisco,Mobile,Electronics,7,40,0.11,2024-11-23,249.20000000000002
+ORD1328,CUST002,Priya Singh,Boston,Laptop,Electronics,8,200,0.13,2024-11-24,1392.0
+ORD1329,CUST002,Amit Sharma,New York,Mobile,Electronics,6,200,0.06,2024-11-25,1128.0
+ORD1330,CUST003,Sara Khan,Boston,Headphones,Electronics,9,200,0.18,2024-11-26,1476.0
+ORD1331,CUST002,John Doe,Boston,Mobile,Accessories,3,600,0.18,2024-11-27,1476.0
+ORD1332,CUST001,Priya Singh,San Francisco,Mobile,Accessories,4,900,0.11,2024-11-28,3204.0
+ORD1333,CUST005,Amit Sharma,New York,Mobile,Electronics,6,40,0.1,2024-11-29,216.0
+ORD1334,CUST004,Michael Lee,San Francisco,Laptop,Electronics,8,600,0.27,2024-11-30,3504.0
+ORD1335,CUST002,Sara Khan,New York,Mobile,Electronics,5,80,0.11,2024-12-01,356.0
+ORD1336,CUST001,Priya Singh,Chicago,Laptop,Accessories,3,40,0.15,2024-12-02,102.0
+ORD1337,CUST004,Priya Singh,New York,Keyboard,Accessories,6,40,0.08,2024-12-03,220.8
+ORD1338,CUST005,John Doe,San Francisco,Headphones,Electronics,4,40,0.24,2024-12-04,121.6
+ORD1339,CUST004,John Doe,Boston,Laptop,Accessories,9,200,0.12,2024-12-05,1584.0
+ORD1340,CUST001,Michael Lee,New York,Keyboard,Accessories,3,40,0.15,2024-12-06,102.0
+ORD1341,CUST004,Michael Lee,New York,Laptop,Electronics,4,900,0.08,2024-12-07,3312.0
+ORD1342,CUST003,Amit Sharma,Houston,Laptop,Electronics,7,40,0.3,2024-12-08,196.0
+ORD1343,CUST004,Amit Sharma,Boston,Headphones,Accessories,7,200,0.09,2024-12-09,1274.0
+ORD1344,CUST002,Michael Lee,Chicago,Monitor,Electronics,4,40,0.23,2024-12-10,123.2
+ORD1345,CUST002,Michael Lee,San Francisco,Monitor,Electronics,6,80,0.13,2024-12-11,417.6
+ORD1346,CUST003,Sara Khan,Chicago,Laptop,Accessories,3,80,0.06,2024-12-12,225.6
+ORD1347,CUST001,John Doe,Boston,Mobile,Electronics,6,200,0.24,2024-12-13,912.0
+ORD1348,CUST002,Amit Sharma,New York,Keyboard,Electronics,2,900,0.1,2024-12-14,1620.0
+ORD1349,CUST005,John Doe,New York,Mobile,Electronics,8,900,0.26,2024-12-15,5328.0
+ORD1350,CUST002,John Doe,Boston,Mobile,Electronics,2,600,0.27,2024-12-16,876.0
+ORD1351,CUST002,Michael Lee,New York,Laptop,Electronics,7,200,0.26,2024-12-17,1036.0
+ORD1352,CUST001,Sara Khan,New York,Laptop,Accessories,9,40,0.01,2024-12-18,356.4
+ORD1353,CUST004,Priya Singh,New York,Laptop,Accessories,1,200,0.24,2024-12-19,152.0
+ORD1354,CUST002,Sara Khan,San Francisco,Laptop,Accessories,8,600,0.12,2024-12-20,4224.0
+ORD1355,CUST003,Sara Khan,San Francisco,Monitor,Electronics,7,200,0.26,2024-12-21,1036.0
+ORD1356,CUST004,John Doe,Houston,Laptop,Accessories,6,200,0.19,2024-12-22,972.0000000000001
+ORD1357,CUST005,Sara Khan,Chicago,Monitor,Electronics,6,600,0.25,2024-12-23,2700.0
+ORD1358,CUST001,Amit Sharma,Boston,Monitor,Electronics,6,900,0.15,2024-12-24,4590.0
+ORD1359,CUST005,John Doe,Boston,Laptop,Electronics,9,40,0.16,2024-12-25,302.4
+ORD1360,CUST004,Amit Sharma,Boston,Headphones,Electronics,2,600,0.04,2024-12-26,1152.0
+ORD1361,CUST004,Priya Singh,Houston,Keyboard,Electronics,1,80,0.24,2024-12-27,60.8
+ORD1362,CUST004,John Doe,San Francisco,Mobile,Electronics,6,900,0.13,2024-12-28,4698.0
+ORD1363,CUST005,Priya Singh,Houston,Monitor,Accessories,8,80,0.15,2024-12-29,544.0
+ORD1364,CUST004,John Doe,Boston,Keyboard,Accessories,3,900,0.24,2024-12-30,2052.0
+ORD1365,CUST005,Michael Lee,Chicago,Headphones,Electronics,1,40,0.18,2024-12-31,32.800000000000004
+ORD1366,CUST004,Sara Khan,New York,Mobile,Accessories,9,40,0.06,2025-01-01,338.4
+ORD1367,CUST003,Michael Lee,San Francisco,Mobile,Accessories,1,200,0.18,2025-01-02,164.0
+ORD1368,CUST004,Priya Singh,San Francisco,Monitor,Electronics,3,80,0.12,2025-01-03,211.2
+ORD1369,CUST005,Sara Khan,Houston,Laptop,Accessories,8,900,0.14,2025-01-04,6192.0
+ORD1370,CUST002,John Doe,San Francisco,Headphones,Electronics,3,40,0.01,2025-01-05,118.8
+ORD1371,CUST004,Sara Khan,Boston,Monitor,Electronics,4,600,0.06,2025-01-06,2256.0
+ORD1372,CUST002,Amit Sharma,Boston,Headphones,Electronics,8,40,0.08,2025-01-07,294.40000000000003
+ORD1373,CUST003,Sara Khan,Houston,Laptop,Accessories,1,600,0.21,2025-01-08,474.0
+ORD1374,CUST001,Amit Sharma,Boston,Laptop,Accessories,6,900,0.0,2025-01-09,5400.0
+ORD1375,CUST003,Sara Khan,Chicago,Monitor,Electronics,1,40,0.12,2025-01-10,35.2
+ORD1376,CUST004,Amit Sharma,Houston,Laptop,Accessories,1,40,0.28,2025-01-11,28.799999999999997
+ORD1377,CUST002,Priya Singh,Chicago,Keyboard,Electronics,8,900,0.03,2025-01-12,6984.0
+ORD1378,CUST002,Michael Lee,New York,Mobile,Electronics,4,40,0.15,2025-01-13,136.0
+ORD1379,CUST005,John Doe,Chicago,Monitor,Electronics,1,600,0.24,2025-01-14,456.0
+ORD1380,CUST002,Sara Khan,New York,Headphones,Electronics,7,40,0.28,2025-01-15,201.6
+ORD1381,CUST005,Michael Lee,New York,Keyboard,Electronics,5,80,0.22,2025-01-16,312.0
+ORD1382,CUST001,John Doe,Chicago,Monitor,Accessories,5,200,0.22,2025-01-17,780.0
+ORD1383,CUST004,John Doe,Houston,Laptop,Electronics,1,600,0.25,2025-01-18,450.0
+ORD1384,CUST005,Amit Sharma,Boston,Laptop,Accessories,6,80,0.13,2025-01-19,417.6
+ORD1385,CUST001,Priya Singh,Boston,Laptop,Electronics,9,900,0.24,2025-01-20,6156.0
+ORD1386,CUST002,Priya Singh,New York,Laptop,Accessories,9,600,0.0,2025-01-21,5400.0
+ORD1387,CUST002,Michael Lee,New York,Headphones,Accessories,8,200,0.28,2025-01-22,1152.0
+ORD1388,CUST001,Priya Singh,Houston,Keyboard,Electronics,5,200,0.13,2025-01-23,870.0
+ORD1389,CUST002,Sara Khan,San Francisco,Mobile,Electronics,1,900,0.17,2025-01-24,747.0
+ORD1390,CUST001,Priya Singh,Chicago,Headphones,Accessories,9,900,0.08,2025-01-25,7452.0
+ORD1391,CUST005,Michael Lee,New York,Headphones,Electronics,1,600,0.22,2025-01-26,468.0
+ORD1392,CUST005,Priya Singh,Boston,Mobile,Electronics,8,40,0.02,2025-01-27,313.6
+ORD1393,CUST001,Sara Khan,Houston,Mobile,Electronics,5,900,0.26,2025-01-28,3330.0
+ORD1394,CUST005,Amit Sharma,Chicago,Laptop,Accessories,3,40,0.25,2025-01-29,90.0
+ORD1395,CUST005,Michael Lee,Houston,Headphones,Accessories,7,80,0.06,2025-01-30,526.4
+ORD1396,CUST005,Amit Sharma,Chicago,Monitor,Electronics,7,200,0.24,2025-01-31,1064.0
+ORD1397,CUST003,Amit Sharma,Chicago,Mobile,Electronics,9,40,0.24,2025-02-01,273.6
+ORD1398,CUST004,Amit Sharma,New York,Mobile,Electronics,7,200,0.19,2025-02-02,1134.0
+ORD1399,CUST002,John Doe,Houston,Keyboard,Electronics,3,40,0.11,2025-02-03,106.8
+ORD1400,CUST003,John Doe,Houston,Monitor,Accessories,1,80,0.08,2025-02-04,73.60000000000001
+ORD1401,CUST005,Amit Sharma,Boston,Monitor,Accessories,8,900,0.07,2025-02-05,6696.0
+ORD1402,CUST001,Michael Lee,Boston,Mobile,Electronics,3,80,0.1,2025-02-06,216.0
+ORD1403,CUST005,Sara Khan,New York,Laptop,Electronics,8,900,0.27,2025-02-07,5256.0
+ORD1404,CUST004,Sara Khan,New York,Keyboard,Electronics,8,900,0.02,2025-02-08,7056.0
+ORD1405,CUST005,Priya Singh,San Francisco,Monitor,Accessories,5,200,0.25,2025-02-09,750.0
+ORD1406,CUST001,Michael Lee,Boston,Mobile,Electronics,1,80,0.1,2025-02-10,72.0
+ORD1407,CUST004,John Doe,Chicago,Monitor,Electronics,7,40,0.16,2025-02-11,235.2
+ORD1408,CUST005,Amit Sharma,Houston,Keyboard,Electronics,5,80,0.24,2025-02-12,304.0
+ORD1409,CUST004,Priya Singh,New York,Keyboard,Electronics,8,200,0.27,2025-02-13,1168.0
+ORD1410,CUST002,Sara Khan,Houston,Headphones,Electronics,9,900,0.1,2025-02-14,7290.0
+ORD1411,CUST002,John Doe,Houston,Mobile,Accessories,7,200,0.14,2025-02-15,1204.0
+ORD1412,CUST005,John Doe,San Francisco,Keyboard,Accessories,7,600,0.12,2025-02-16,3696.0
+ORD1413,CUST004,Amit Sharma,Boston,Headphones,Accessories,1,600,0.0,2025-02-17,600.0
+ORD1414,CUST001,Sara Khan,New York,Headphones,Accessories,4,40,0.09,2025-02-18,145.6
+ORD1415,CUST005,Michael Lee,Houston,Monitor,Electronics,2,200,0.14,2025-02-19,344.0
+ORD1416,CUST002,John Doe,New York,Monitor,Electronics,2,40,0.12,2025-02-20,70.4
+ORD1417,CUST002,Amit Sharma,Chicago,Headphones,Accessories,2,40,0.22,2025-02-21,62.400000000000006
+ORD1418,CUST005,Michael Lee,San Francisco,Monitor,Electronics,4,600,0.12,2025-02-22,2112.0
+ORD1419,CUST004,Sara Khan,Chicago,Keyboard,Accessories,1,40,0.15,2025-02-23,34.0
+ORD1420,CUST002,John Doe,New York,Laptop,Accessories,4,600,0.13,2025-02-24,2088.0
+ORD1421,CUST004,Michael Lee,New York,Keyboard,Electronics,2,900,0.22,2025-02-25,1404.0
+ORD1422,CUST002,Michael Lee,Boston,Headphones,Accessories,5,200,0.26,2025-02-26,740.0
+ORD1423,CUST002,Michael Lee,Houston,Headphones,Electronics,3,40,0.16,2025-02-27,100.8
+ORD1424,CUST003,John Doe,Houston,Keyboard,Electronics,8,600,0.24,2025-02-28,3648.0
+ORD1425,CUST002,John Doe,Chicago,Monitor,Electronics,4,80,0.09,2025-03-01,291.2
+ORD1426,CUST001,Priya Singh,San Francisco,Monitor,Electronics,1,40,0.16,2025-03-02,33.6
+ORD1427,CUST005,Sara Khan,Houston,Headphones,Electronics,1,900,0.1,2025-03-03,810.0
+ORD1428,CUST005,Amit Sharma,Boston,Mobile,Accessories,3,900,0.12,2025-03-04,2376.0
+ORD1429,CUST004,Michael Lee,Chicago,Monitor,Accessories,9,80,0.22,2025-03-05,561.6
+ORD1430,CUST002,Priya Singh,Chicago,Keyboard,Electronics,7,600,0.26,2025-03-06,3108.0
+ORD1431,CUST001,Amit Sharma,Boston,Monitor,Electronics,2,40,0.04,2025-03-07,76.8
+ORD1432,CUST004,Priya Singh,San Francisco,Keyboard,Accessories,9,600,0.19,2025-03-08,4374.0
+ORD1433,CUST003,John Doe,Boston,Headphones,Electronics,2,900,0.17,2025-03-09,1494.0
+ORD1434,CUST004,Michael Lee,San Francisco,Monitor,Accessories,3,600,0.04,2025-03-10,1728.0
+ORD1435,CUST004,Amit Sharma,Boston,Keyboard,Electronics,2,900,0.06,2025-03-11,1692.0
+ORD1436,CUST002,Amit Sharma,Boston,Headphones,Accessories,3,600,0.09,2025-03-12,1638.0
+ORD1437,CUST003,Amit Sharma,New York,Mobile,Electronics,6,80,0.05,2025-03-13,456.0
+ORD1438,CUST004,Amit Sharma,Chicago,Keyboard,Electronics,9,200,0.07,2025-03-14,1674.0
+ORD1439,CUST001,Amit Sharma,Boston,Mobile,Accessories,9,80,0.08,2025-03-15,662.4
+ORD1440,CUST001,Priya Singh,Boston,Mobile,Accessories,7,80,0.1,2025-03-16,504.0
+ORD1441,CUST005,Michael Lee,Houston,Laptop,Electronics,3,200,0.22,2025-03-17,468.0
+ORD1442,CUST003,John Doe,Chicago,Monitor,Electronics,4,200,0.17,2025-03-18,664.0
+ORD1443,CUST003,John Doe,Houston,Keyboard,Accessories,6,40,0.3,2025-03-19,168.0
+ORD1444,CUST005,John Doe,Chicago,Mobile,Accessories,5,40,0.12,2025-03-20,176.0
+ORD1445,CUST004,John Doe,Houston,Laptop,Accessories,2,80,0.23,2025-03-21,123.2
+ORD1446,CUST003,Priya Singh,Boston,Headphones,Accessories,6,80,0.26,2025-03-22,355.2
+ORD1447,CUST001,Sara Khan,Boston,Keyboard,Electronics,3,900,0.2,2025-03-23,2160.0
+ORD1448,CUST001,Michael Lee,New York,Mobile,Accessories,8,900,0.12,2025-03-24,6336.0
+ORD1449,CUST002,Amit Sharma,Houston,Monitor,Electronics,2,40,0.23,2025-03-25,61.6
+ORD1450,CUST003,Sara Khan,San Francisco,Laptop,Accessories,1,40,0.06,2025-03-26,37.599999999999994
+ORD1451,CUST004,John Doe,New York,Mobile,Electronics,9,900,0.1,2025-03-27,7290.0
+ORD1452,CUST005,Sara Khan,Houston,Monitor,Electronics,3,900,0.16,2025-03-28,2268.0
+ORD1453,CUST005,Michael Lee,Houston,Mobile,Accessories,1,600,0.17,2025-03-29,498.0
+ORD1454,CUST004,Amit Sharma,New York,Keyboard,Accessories,7,600,0.01,2025-03-30,4158.0
+ORD1455,CUST002,Amit Sharma,Boston,Keyboard,Electronics,5,900,0.28,2025-03-31,3240.0
+ORD1456,CUST005,Michael Lee,Houston,Keyboard,Accessories,5,600,0.21,2025-04-01,2370.0
+ORD1457,CUST003,Michael Lee,Boston,Laptop,Electronics,1,200,0.15,2025-04-02,170.0
+ORD1458,CUST002,John Doe,New York,Keyboard,Electronics,9,40,0.28,2025-04-03,259.2
+ORD1459,CUST003,Amit Sharma,Boston,Monitor,Electronics,7,40,0.13,2025-04-04,243.6
+ORD1460,CUST001,Sara Khan,Chicago,Mobile,Accessories,8,900,0.29,2025-04-05,5112.0
+ORD1461,CUST002,Priya Singh,San Francisco,Headphones,Electronics,9,80,0.15,2025-04-06,612.0
+ORD1462,CUST005,Priya Singh,Houston,Monitor,Accessories,6,900,0.03,2025-04-07,5238.0
+ORD1463,CUST002,Michael Lee,San Francisco,Monitor,Accessories,5,600,0.23,2025-04-08,2310.0
+ORD1464,CUST002,John Doe,Boston,Keyboard,Accessories,6,80,0.2,2025-04-09,384.0
+ORD1465,CUST002,Priya Singh,Houston,Laptop,Accessories,2,600,0.23,2025-04-10,924.0
+ORD1466,CUST002,Amit Sharma,Boston,Mobile,Electronics,4,200,0.29,2025-04-11,568.0
+ORD1467,CUST003,Michael Lee,Chicago,Laptop,Accessories,3,600,0.23,2025-04-12,1386.0
+ORD1468,CUST001,Sara Khan,New York,Mobile,Electronics,7,200,0.18,2025-04-13,1148.0
+ORD1469,CUST004,Michael Lee,Houston,Mobile,Electronics,9,200,0.26,2025-04-14,1332.0
+ORD1470,CUST002,Sara Khan,Chicago,Laptop,Electronics,5,600,0.2,2025-04-15,2400.0
+ORD1471,CUST005,Michael Lee,Chicago,Monitor,Accessories,6,600,0.12,2025-04-16,3168.0
+ORD1472,CUST002,Michael Lee,Houston,Mobile,Accessories,2,200,0.27,2025-04-17,292.0
+ORD1473,CUST005,Michael Lee,Boston,Laptop,Accessories,3,80,0.07,2025-04-18,223.2
+ORD1474,CUST003,Sara Khan,Chicago,Mobile,Accessories,3,200,0.21,2025-04-19,474.0
+ORD1475,CUST005,Sara Khan,San Francisco,Headphones,Accessories,9,40,0.26,2025-04-20,266.4
+ORD1476,CUST004,Michael Lee,Chicago,Monitor,Electronics,7,200,0.22,2025-04-21,1092.0
+ORD1477,CUST001,Priya Singh,Boston,Keyboard,Electronics,8,80,0.21,2025-04-22,505.6
+ORD1478,CUST005,John Doe,Boston,Mobile,Electronics,9,40,0.23,2025-04-23,277.2
+ORD1479,CUST005,John Doe,San Francisco,Headphones,Electronics,6,900,0.14,2025-04-24,4644.0
+ORD1480,CUST001,John Doe,Chicago,Keyboard,Accessories,4,900,0.26,2025-04-25,2664.0
+ORD1481,CUST004,Sara Khan,Boston,Keyboard,Electronics,1,80,0.06,2025-04-26,75.19999999999999
+ORD1482,CUST002,Sara Khan,Houston,Mobile,Electronics,8,200,0.04,2025-04-27,1536.0
+ORD1483,CUST005,Priya Singh,New York,Laptop,Electronics,7,600,0.09,2025-04-28,3822.0
+ORD1484,CUST001,John Doe,New York,Mobile,Accessories,2,80,0.16,2025-04-29,134.4
+ORD1485,CUST003,John Doe,New York,Headphones,Electronics,8,40,0.15,2025-04-30,272.0
+ORD1486,CUST001,Michael Lee,Chicago,Keyboard,Accessories,5,40,0.25,2025-05-01,150.0
+ORD1487,CUST003,Sara Khan,San Francisco,Mobile,Electronics,7,900,0.12,2025-05-02,5544.0
+ORD1488,CUST004,John Doe,Boston,Laptop,Electronics,4,40,0.15,2025-05-03,136.0
+ORD1489,CUST002,Priya Singh,Houston,Mobile,Electronics,5,80,0.0,2025-05-04,400.0
+ORD1490,CUST001,Priya Singh,Houston,Monitor,Accessories,8,40,0.12,2025-05-05,281.6
+ORD1491,CUST005,John Doe,Chicago,Laptop,Electronics,1,80,0.19,2025-05-06,64.80000000000001
+ORD1492,CUST004,Sara Khan,New York,Headphones,Accessories,1,600,0.0,2025-05-07,600.0
+ORD1493,CUST001,Priya Singh,Chicago,Keyboard,Electronics,4,900,0.08,2025-05-08,3312.0
+ORD1494,CUST005,Michael Lee,San Francisco,Mobile,Accessories,3,40,0.06,2025-05-09,112.8
+ORD1495,CUST001,Priya Singh,San Francisco,Laptop,Electronics,2,80,0.01,2025-05-10,158.4
+ORD1496,CUST003,Amit Sharma,Boston,Monitor,Accessories,3,200,0.14,2025-05-11,516.0
+ORD1497,CUST001,Amit Sharma,Boston,Laptop,Electronics,1,900,0.05,2025-05-12,855.0
+ORD1498,CUST001,Sara Khan,San Francisco,Monitor,Accessories,1,600,0.22,2025-05-13,468.0
+ORD1499,CUST001,John Doe,San Francisco,Headphones,Electronics,6,80,0.25,2025-05-14,360.0
