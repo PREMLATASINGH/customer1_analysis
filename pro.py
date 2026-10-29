@@ -38,3 +38,4 @@ df.to_csv("sales_data.csv", index=False)
 
 print("sales_data.csv created successfully!")
 print(df.head())
+print(df.tail())
